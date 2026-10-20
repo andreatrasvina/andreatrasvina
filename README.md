@@ -1,84 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f2937&height=120&text=Andrea%20Trasviña&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Andrea Trasviña" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=andreatrasvina&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=9CA3AF&center=true&vCenter=true&width=520&lines=Ingeniera+de+Software;Co-fundadora+de+Baja+Systems;Integraciones+con+GNP+·+Quálitas+·+HDI+·+Chubb;Creando+Blank+—+SaaS+multi-tenant" alt="Roles" />
+  <img src="./assets/header.svg" width="100%" alt="Andrea Trasviña" />
 </p>
 
 <p align="center">
-  <a href="https://baja-systems.com"><img src="https://img.shields.io/badge/Baja_Systems-000000?style=for-the-badge" alt="Baja Systems" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://baja-systems.com"><img src="https://img.shields.io/badge/baja--systems.com-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Baja Systems" /></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tu-correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br/>
 
-<div align="center">
-
-| **4** | **1** | **5** | **2** |
-|:---:|:---:|:---:|:---:|
-| aseguradoras integradas | SaaS en producción | productos entregados | co-fundadores |
-
-</div>
-
-<br/>
-
-<h3 align="center">Destacado</h3>
-
-<details>
-<summary><b>Multicotizador de seguros</b> &nbsp;·&nbsp; GNP · Quálitas · HDI · Chubb &nbsp;<img src="https://img.shields.io/badge/privado-555?style=flat-square" /></summary>
-<br/>
-
-Cotiza en paralelo con varias aseguradoras, emite, cancela e imprime pólizas. Un solo backend para web y WhatsApp.
-
-`TypeScript` `Hono` `Zod` `SOAP` `REST`
-</details>
-
-<details>
-<summary><b>Blank</b> &nbsp;·&nbsp; SaaS multi-tenant de Baja Systems &nbsp;<img src="https://img.shields.io/badge/privado-555?style=flat-square" /></summary>
-<br/>
-
-Plataforma modular con ediciones por industria. Primera edición: **Blank Dental**.
-
-`Next.js` `PostgreSQL` `Drizzle` `Docker`
-</details>
-
-<details>
-<summary><b>Consultorio Dra. Ana Sofía</b> &nbsp;·&nbsp; gestión + bot de WhatsApp con IA &nbsp;<img src="https://img.shields.io/badge/en_producción-16a34a?style=flat-square" /></summary>
-<br/>
-
-Agenda, pacientes y promociones, sincronizado con Google Calendar. El bot atiende y agenda citas 24/7.
-
-`Next.js` `WhatsApp Cloud API` `Claude API` `Google Calendar API`
-</details>
-
-<details>
-<summary><b>Aguayo & Asociados</b> &nbsp;·&nbsp; sitio corporativo &nbsp;<a href="https://aguayoyasociados.com"><img src="https://img.shields.io/badge/ver_sitio-000000?style=flat-square" /></a></summary>
-<br/>
-
-Sitio editorial para despacho de seguros, con blog y formulario protegido.
-
-`Astro` `Resend` `reCAPTCHA v3`
-</details>
-
-<details>
-<summary><b>Baja Systems</b> &nbsp;·&nbsp; sitio de la consultora &nbsp;<a href="https://baja-systems.com"><img src="https://img.shields.io/badge/ver_sitio-000000?style=flat-square" /></a></summary>
-<br/>
-
-Bilingüe ES/EN, modo claro/oscuro y hero interactivo en canvas.
-
-`Astro` `i18n`
-</details>
-
-<br/>
-
-<h3 align="center">Stack</h3>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nextjs,react,astro,tailwind,postgres,docker,linux,git&perline=10" alt="Stack" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Hono-E36002?style=for-the-badge&logo=hono&logoColor=E36002&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=BC52EE&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000" />
+  <br/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=C5F74F&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000" />
+  <img src="https://img.shields.io/badge/-WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=000" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000" />
 </p>
 
+<br/>
+
+<h3>Proyectos destacados</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:000000&height=4&section=footer" alt="" />
+  <img src="./assets/card-multicotizador.svg" width="49%" alt="Multicotizador" />
+  <img src="./assets/card-blank.svg" width="49%" alt="Blank" />
+  <img src="./assets/card-consultorio.svg" width="49%" alt="Consultorio Dra. Ana Sofía" />
+  <a href="https://aguayoyasociados.com"><img src="./assets/card-aguayo.svg" width="49%" alt="Aguayo & Asociados" /></a>
 </p>
