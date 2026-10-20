@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="170" viewBox="0 0 840 170">
+<style>
+.p{font:500 14px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#8b949e}
+.n{font:700 32px -apple-system,'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.l{font:400 13px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#8b949e}
+.a{animation:in .8s ease-out both}.b{animation:in .8s ease-out .25s both}.c{animation:in .8s ease-out .5s both}.e{animation:in .8s ease-out .75s both}
+.bar{animation:grow 1.2s ease-out .4s both;transform-origin:420px 0}
+@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+</style>
+<rect width="840" height="170" rx="10" fill="#0d1117"/>
+<text x="420" y="44" text-anchor="middle" class="p a">&gt; hola, soy</text>
+<text x="420" y="84" text-anchor="middle" class="n b">Andrea Trasviña</text>
+<rect class="bar" x="380" y="98" width="80" height="3" rx="1.5" fill="#8b5cf6"/>
+<text x="420" y="128" text-anchor="middle" class="l c">[ Ingeniera de Software · Co-fundadora de Baja Systems ]</text>
+<text x="420" y="150" text-anchor="middle" class="l e">[ Integraciones con aseguradoras · La Paz, B.C.S. ]</text>
+</svg>
