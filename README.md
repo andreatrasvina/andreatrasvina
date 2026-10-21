@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=andreatrasvina&label=Profile%20views&color=8b5cf6&style=flat-square" alt="Profile views" />
-</p>
-
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Andrea Trasviña" />
 </p>
